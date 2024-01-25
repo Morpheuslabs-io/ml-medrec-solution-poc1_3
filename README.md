@@ -1,2 +1,1 @@
-# ml-medrec-solution-poc1_3
-This is a POC (proof of concept) for a general framework for storing, sharing and managing medical records leveraging Ethereum blockchain.
+96a881212e7b5bd6af2c38fcd5649baa865d4a21
